@@ -9,11 +9,11 @@
 
 int main() {
     // creating variables
-    const int NUMBER = 5;
+    const int NUMBER = 7;
     int guessNumber;
 
     // input
-    std::cout << "Guess a number from 0 - 9: ";
+    std::cout << "Guess a number from 0 - 9:";
     std::cin >> guessNumber;
 
     // process and output
